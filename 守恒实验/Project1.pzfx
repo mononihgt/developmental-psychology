@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GraphPadPrismFile xmlns="http://graphpad.com/prism/Prism.htm" PrismXMLVersion="5.00">
+<Created>
+<OriginalVersion CreatedByProgram="GraphPad Prism" CreatedByVersion="9.0.0.121" Login="Lenovo" DateTime="2024-12-10T22:04:23+08:00"/>
+</Created>
+<DefGraphButton ButtonID="315"/>
+<InfoSequence>
+<Ref ID="Info0" Selected="1"/>
+<Ref ID="Info1"/>
+</InfoSequence>
+<Info ID="Info0">
+<Title>Project info 1</Title>
+<Notes/>
+<Constant><Name>Experiment Date</Name><Value>2024-12-10</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<Info ID="Info1">
+<Title>Project info 1</Title>
+<Notes/>
+<Constant><Name>Experiment Date</Name><Value>2024-12-10</Value></Constant>
+<Constant><Name>Experiment ID</Name><Value/></Constant>
+<Constant><Name>Notebook ID</Name><Value/></Constant>
+<Constant><Name>Project</Name><Value/></Constant>
+<Constant><Name>Experimenter</Name><Value/></Constant>
+<Constant><Name>Protocol</Name><Value/></Constant>
+</Info>
+
+<TableSequence>
+<Ref ID="Table0"/>
+<Ref ID="Table1"/>
+<Ref ID="Table2"/>
+<Ref ID="Table3"/>
+<Ref ID="Table4" Selected="1"/>
+</TableSequence>
+<Table ID="Table0" XFormat="none" YFormat="SDN" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Col: Entering averaged data</Title>
+<FloatingNote ID="Sticky0" Auto="0" Color="Yellow" Left="2282" Top="1231" Width="252" Height="1560" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:Column_tables" URL="@help:Column_tables">
+Learn about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The subcolumns are labeled for entry of mean, SD and n.</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data as points or bars.</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-If you choose to make a Column graph, but choose to enter preaveraged data (like here), Prism actually makes a Grouped table like you see here. Enter data only on the first row. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. </Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-When you make a graph, you can choose to plot bars or points, and with SD, SEM or 95% CI error bars.</Font>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-If you have raw data, enter (or import/paste). You can make graphs of mean and SD or SEM directly from raw data entered into a Column table. Only use this kind of table when you only have the mean, n, and SD or SEM and don't have the raw data. </Font>
+</FloatingNote>
+
+<RowTitlesColumn Width="125">
+<Subcolumn/>
+</RowTitlesColumn>
+<YColumn Width="375" Decimals="2" Subcolumns="3">
+<Title>长度</Title>
+<Subcolumn>
+<d>0.6</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.28</d>
+</Subcolumn>
+<Subcolumn>
+<d>60</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="375" Decimals="2" Subcolumns="3">
+<Title>物质</Title>
+<Subcolumn>
+<d>0.77</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.53</d>
+</Subcolumn>
+<Subcolumn>
+<d>60</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="375" Decimals="2" Subcolumns="3">
+<Title>液体</Title>
+<Subcolumn>
+<d>0.88</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.55</d>
+</Subcolumn>
+<Subcolumn>
+<d>60</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table1" XFormat="none" YFormat="SDN" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>grade</Title>
+<FloatingNote ID="Sticky2" Auto="0" Color="Yellow" Left="2282" Top="1231" Width="252" Height="1560" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:Column_tables" URL="@help:Column_tables">
+Learn about Column tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Arial">How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>The three columns define three groups. The subcolumns are labeled for entry of mean, SD and n.</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>How to graph these data</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/>Look in the navigator to the left and find the Graphs folder. Click on the graph in bold. Prism will present several choices for graphing these data as points or bars.</Font>
+<B><Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>Notes</Font></B>
+<Font Size="11" Color="#000000" Face="Arial"><BR/><BR/>-If you choose to make a Column graph, but choose to enter preaveraged data (like here), Prism actually makes a Grouped table like you see here. Enter data only on the first row. <BR/><BR/>-Unlike many statistics programs, Prism does not define groups using a grouping variable. Instead, the groups are defined by which column each value is entered into. <BR/><BR/>-When you make a graph, you can choose to plot bars or points, and with SD, SEM or 95% CI error bars.<BR/><BR/>-If you have raw data, enter (or import/paste). You can make graphs of mean and SD or SEM directly from raw data entered into a Column table. Only use this kind of table when you only have the mean, n, and SD or SEM and don't have the raw data. </Font>
+
+
+
+</FloatingNote>
+
+<RowTitlesColumn Width="125">
+<Subcolumn/>
+</RowTitlesColumn>
+<YColumn Width="375" Decimals="2" Subcolumns="3">
+<Title>小班</Title>
+<Subcolumn>
+<d>1.3</d>
+</Subcolumn>
+<Subcolumn>
+<d>3.39</d>
+</Subcolumn>
+<Subcolumn>
+<d>20</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="375" Decimals="2" Subcolumns="3">
+<Title>中班</Title>
+<Subcolumn>
+<d>1.15</d>
+</Subcolumn>
+<Subcolumn>
+<d>2.3</d>
+</Subcolumn>
+<Subcolumn>
+<d>20</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="375" Decimals="2" Subcolumns="3">
+<Title>大班</Title>
+<Subcolumn>
+<d>4.3</d>
+</Subcolumn>
+<Subcolumn>
+<d>4.08</d>
+</Subcolumn>
+<Subcolumn>
+<d>20</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table2" XFormat="none" YFormat="SDN" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>Grouped: Entering averaged data</Title>
+<FloatingNote ID="Sticky3" Auto="0" Color="Yellow" Left="2282" Top="1231" Width="253" Height="2777" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:bar_graphs" URL="@help:bar_graphs">
+Learn about arranging data for different kinds of bar graphs
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Verdana">How grouped data are arranged</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>The columns define two treatments, and the rows define three genotypes. For each genotype/treatment, the mean, SD and N were entered. Note that N is not the same for all conditions.</Font>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>Unlike other programs, you do not define groups by entering values into special grouping variable columns.  Instead one grouping variable (treatment) is defined by columns, and the other grouping variable is defined by rows.</Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>Analyzing the data</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>Click the Analyze button, and choose from two-way ANOVA from the list of Grouped  analyses. Repeated measures ANOVA is impossible when you enter preaveraged data. </Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>Grouped  bar graph</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>The linked graph is an interleaved bar graph.  Each column of data becomes one kind of bar (different appearance, defined with a legend). There are two kinds of bars (for columns A and B) and three of each type of bar (one for each genotype, defined by rows).   Error bars are graphed from the error values you entered. This is only one of several ways to create bar graphs with Prism.  Click the link below to learn about other kinds of bar graphs.</Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>What if there is only one row?</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>Delete all but the first row, and look at the linked graph. It looks very much like a column  bar graph (data entered on Column tables). The difference is that you can only enter raw data, not mean and SD or SEM, on a column table. In contrast, you can enter preaveraged data (with SD or SEM) on a on a Grouped table. By entering data on only one row, you effectively have only one grouping variable, even though the Grouped table is designed for two grouping variables. </Font>
+</FloatingNote>
+
+<RowTitlesColumn Width="125">
+<Subcolumn>
+<d>长度</d>
+<d>物质</d>
+<d>液体</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="375" Decimals="5" Subcolumns="3">
+<Title>小班</Title>
+<Subcolumn>
+<d>0.5</d>
+<d>0.4</d>
+<d>0.4</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.1</d>
+<d>1.23</d>
+<d>1.23</d>
+</Subcolumn>
+<Subcolumn>
+<d>20</d>
+<d>20</d>
+<d>20</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="375" Decimals="5" Subcolumns="3">
+<Title>中班</Title>
+<Subcolumn>
+<d>0.15</d>
+<d>0.65</d>
+<d>0.35</d>
+</Subcolumn>
+<Subcolumn>
+<d>0.67</d>
+<d>1.46</d>
+<d>0.88</d>
+</Subcolumn>
+<Subcolumn>
+<d>20</d>
+<d>20</d>
+<d>20</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="375" Decimals="2" Subcolumns="3">
+<Title>大班</Title>
+<Subcolumn>
+<d>1.15</d>
+<d>1.25</d>
+<d>1.9</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.69</d>
+<d>1.8</d>
+<d>1.89</d>
+</Subcolumn>
+<Subcolumn>
+<d>20</d>
+<d>20</d>
+<d>20</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table3" XFormat="none" YFormat="SDN" TableType="TwoWay" EVFormat="AsteriskAfterNumber">
+<Title>task_gender</Title>
+<FloatingNote ID="Sticky5" Auto="0" Color="Yellow" Left="2282" Top="1231" Width="253" Height="2777" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:bar_graphs" URL="@help:bar_graphs">
+Learn about arranging data for different kinds of bar graphs
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Verdana">How grouped data are arranged</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>The columns define two treatments, and the rows define three genotypes. For each genotype/treatment, the mean, SD and N were entered. Note that N is not the same for all conditions.<BR/><BR/>Unlike other programs, you do not define groups by entering values into special grouping variable columns.  Instead one grouping variable (treatment) is defined by columns, and the other grouping variable is defined by rows.</Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>Analyzing the data</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>Click the Analyze button, and choose from two-way ANOVA from the list of Grouped  analyses. Repeated measures ANOVA is impossible when you enter preaveraged data. </Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>Grouped  bar graph</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>The linked graph is an interleaved bar graph.  Each column of data becomes one kind of bar (different appearance, defined with a legend). There are two kinds of bars (for columns A and B) and three of each type of bar (one for each genotype, defined by rows).   Error bars are graphed from the error values you entered. This is only one of several ways to create bar graphs with Prism.  Click the link below to learn about other kinds of bar graphs.</Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>What if there is only one row?</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>Delete all but the first row, and look at the linked graph. It looks very much like a column  bar graph (data entered on Column tables). The difference is that you can only enter raw data, not mean and SD or SEM, on a column table. In contrast, you can enter preaveraged data (with SD or SEM) on a on a Grouped table. By entering data on only one row, you effectively have only one grouping variable, even though the Grouped table is designed for two grouping variables. </Font>
+
+</FloatingNote>
+
+<RowTitlesColumn Width="125">
+<Subcolumn>
+<d>长度</d>
+<d>物质</d>
+<d>液体</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="375" Decimals="5" Subcolumns="3">
+<Title>男</Title>
+<Subcolumn>
+<d>0.7</d>
+<d>0.8</d>
+<d>0.9</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.47</d>
+<d>1.56</d>
+<d>1.49</d>
+</Subcolumn>
+<Subcolumn>
+<d>30</d>
+<d>30</d>
+<d>30</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="375" Decimals="5" Subcolumns="3">
+<Title>女</Title>
+<Subcolumn>
+<d>0.5</d>
+<d>0.73</d>
+<d>0.87</d>
+</Subcolumn>
+<Subcolumn>
+<d>1.07</d>
+<d>1.53</d>
+<d>1.63</d>
+</Subcolumn>
+<Subcolumn>
+<d>30</d>
+<d>30</d>
+<d>30</d>
+</Subcolumn>
+</YColumn>
+</Table>
+<Table ID="Table4" XFormat="none" TableType="Contingency" EVFormat="AsteriskAfterNumber">
+<Title>Contingency: Prospective data (chi-square test)</Title>
+<FloatingNote ID="Sticky6" Auto="0" Color="Yellow" Left="2282" Top="1231" Width="254" Height="1455" ScrWidth="1707" ScrHeight="1067" ScrDPI="144">
+<WebLink Flags="0" ToolTip="@help:stat_howto_contingency_tables" URL="@help:stat_howto_contingency_tables">
+Step by step instructions for analyzing contingency tables
+</WebLink>
+
+<B><Font Size="11" Color="#000000" Face="Verdana">How the data are organized</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>This is a prospective study.The two rows represent two treatments assigned randomly to subjects. The two columns represent two alternative outcomes.  The values are the number of subjects in each category. Data from: New England Journal Medicine 318: 262-264 (1988).</Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>Goals</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/> - To assess whether the discrepancy between incidence of myocardial </Font>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>    infarction is more than expected by chance. </Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/> - </Font></B>
+<Font Size="11" Color="#000000" Face="Verdana">To quantify the relative risk, with its 95% confidence interval.</Font>
+<B><Font Size="11" Color="#000000" Face="Verdana"><BR/><BR/>How to analyze the data</Font></B>
+<Font Size="11" Color="#000000" Face="Verdana"><BR/>Click Analyze, choose "Chi-square (and Fisher's exact) test" from the list of analyses for contingency tables, and then choose the chi-square test and computation of relative risk in the dialog. Click below for more detailed instructions, and to learn about contingency tables.</Font>
+</FloatingNote>
+
+<RowTitlesColumn Width="125">
+<Subcolumn>
+<d>小班</d>
+<d>中班</d>
+<d>大班</d>
+</Subcolumn>
+</RowTitlesColumn>
+<YColumn Width="125" Decimals="0" Subcolumns="1">
+<Title>浪漫</Title>
+<Subcolumn>
+<d>12</d>
+<d>8</d>
+<d>2</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="0" Subcolumns="1">
+<Title>知觉</Title>
+<Subcolumn>
+<d>95</d>
+<d>100</d>
+<d>77</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="0" Subcolumns="1">
+<Title>具体</Title>
+<Subcolumn>
+<d>6</d>
+<d>9</d>
+<d>26</d>
+</Subcolumn>
+</YColumn>
+<YColumn Width="125" Decimals="0" Subcolumns="1">
+<Title>抽象</Title>
+<Subcolumn>
+<d>7</d>
+<d>3</d>
+<d>15</d>
+</Subcolumn>
+</YColumn>
+</Table>
+
+<!--Analyses, graphs and layouts as compressed binary. Don't edit this part of the file.-->
+
+<Template xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">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</Template></GraphPadPrismFile>
